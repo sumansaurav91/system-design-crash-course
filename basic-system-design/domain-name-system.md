@@ -20,3 +20,4 @@
 * When a user enters a domain name in the browser, the browser has to translate the domain name to an IP address by asking the DNS infrastructure
 * Once the desired IP address is obtained, the yser's request is forwarded to the destination web server
 
+![DNS](https://github.com/user-attachments/assets/a0039704-6505-4d23-ae89-0528aeef149c)
